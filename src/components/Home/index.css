@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.home-img {
+  width: 50%;
+  max-width: 150px;
+}
+.home-head {
+  color: #6d396b;
+  font-weight: 500;
+}
